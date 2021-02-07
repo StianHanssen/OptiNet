@@ -1,7 +1,7 @@
 # OptiNet
 
 #### Note:
-The datasets and models are stored at: https://mega.nz/#F!1VkxDSgT. Unfortunetely, I do not have permission to share this data and can therefore not be publicly provided.
+The datasets and models are stored at: https://mega.nz/#F!1VkxDSgT. Unfortunetely, I do not have permission to share this data and can therefore not be publicly provided. The original dataset from Duke university can be found at: http://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm
 
 The refined datasets are also stored in the link given above, therefore the following steps in 'On a regular computer' can be skipped: 8-12. I leave the steps in documentation in case anyone would need to set up the project from scratch.
 
