@@ -1,9 +1,9 @@
-# AMD_Detection
+# OptiNet
 
 #### Note:
-As the project now has git LFS implemented it is important to follow the instructions on setting up git LFS first from here: https://git-lfs.github.com/.
+The datasets and models are stored at: https://mega.nz/#F!1VkxDSgT. Unfortunetely, I do not have permission to share this data and can therefore not be publicly provided.
 
-Due to the project having git LFS, the datasets, summaries and saved models are stored and thus can be loaded. The following steps in 'On a regular computer' can be skipped: 1-4, 6-12. I leave the steps in documentation in case anyone would need to set up the project from scratch.
+The refined datasets are also stored in the link given above, therefore the following steps in 'On a regular computer' can be skipped: 8-12. I leave the steps in documentation in case anyone would need to set up the project from scratch.
 
 ## How to run the project:
 A version of **Python 3** has to be installed.
