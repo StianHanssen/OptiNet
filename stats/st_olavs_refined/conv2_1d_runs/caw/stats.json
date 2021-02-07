@@ -1,0 +1,14 @@
+{
+    "Trained on Dataset": "st_olavs_refined",
+    "Dataset Size": 114,
+    "AMD Ratio": 0.8947368421052632,
+    "True Positives": 101.0,
+    "False Positives": 0.0,
+    "True Negatives": 12.0,
+    "False Negatives": 1.0,
+    "Validation Accuracy": 0.9912280701754386,
+    "Validation Loss": 0.09682943946436832,
+    "Precision": 1.0,
+    "Recall": 0.9901960784313726,
+    "AUC": 1.0
+}

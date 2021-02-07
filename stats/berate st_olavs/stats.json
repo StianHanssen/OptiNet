@@ -1,0 +1,13 @@
+{
+    "Dataset Size": 228,
+    "AMD Ratio": 0.8947368421052632,
+    "True Positives": 142.0,
+    "False Positives": 3.0,
+    "True Negatives": 21.0,
+    "False Negatives": 62.0,
+    "Validation Accuracy": 0.7149122807017544,
+    "Validation Loss": 0.5736324912623355,
+    "Precision": 0.9793103448275862,
+    "Recall": 0.696078431372549,
+    "AUROC": 0.8958333333333333
+}

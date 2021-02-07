@@ -1,0 +1,15 @@
+{
+    "Trained on Dataset": "duke_refined",
+    "Dataset Size": 72,
+    "AMD Ratio": 0.6666666666666666,
+    "Validation Accuracy Mean": 0.9791666666666666,
+    "Validation Accuracy Variance": 0.0006269290123456789,
+    "Validation Loss Mean": 0.09017615881231096,
+    "Validation Loss Variance": 0.001839447241614551,
+    "Precision Mean": 0.9836093018767791,
+    "Precision Variance": 0.00038764639651742177,
+    "Recall Mean": 0.9854166666666666,
+    "Recall Variance": 0.0006987847222222226,
+    "AUC Mean": 0.9976562500000001,
+    "AUC Variance": 1.2968086902006282e-05
+}

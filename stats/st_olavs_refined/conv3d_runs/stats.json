@@ -1,0 +1,15 @@
+{
+    "Trained on Dataset": "st_olavs_refined",
+    "Dataset Size": 114,
+    "AMD Ratio": 0.8947368421052632,
+    "Validation Accuracy Mean": 0.9956140350877194,
+    "Validation Accuracy Variance": 3.4626038781163655e-05,
+    "Validation Loss Mean": 0.10335571431277091,
+    "Validation Loss Variance": 0.0012348805195073196,
+    "Precision Mean": 0.9980487340567296,
+    "Precision Variance": 1.5230208122349973e-05,
+    "Recall Mean": 0.9970588235294118,
+    "Recall Variance": 2.0184544405997552e-05,
+    "AUC Mean": 0.9998366013071894,
+    "AUC Variance": 2.402921953094947e-07
+}

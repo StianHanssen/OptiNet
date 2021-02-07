@@ -1,0 +1,14 @@
+{
+    "Trained on Dataset": "duke_refined",
+    "Dataset Size": 72,
+    "AMD Ratio": 0.6666666666666666,
+    "True Positives": 47.0,
+    "False Positives": 0.0,
+    "True Negatives": 22.0,
+    "False Negatives": 3.0,
+    "Validation Accuracy": 0.9583333333333334,
+    "Validation Loss": 0.12967868645985922,
+    "Precision": 1.0,
+    "Recall": 0.94,
+    "AUC": 0.9918181818181817
+}

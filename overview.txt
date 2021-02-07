@@ -1,0 +1,13 @@
+duke_refined:
+	nicosia: 2+1D conv with bias
+	berate: 2+1D conv without bias
+	dovekie: 3D conv with bias
+	suntanning: 3D conv without bias
+st_olavs_refined:
+	passbook: 2+1D conv with bias
+	foolhardy: 2+1D conv without bias
+	yemen: 3D conv with bias
+	inattentive: 3D conv without bias
+combined_refined:
+	any: 3D conv with bias
+	complimentary: 2+1D conv with bias

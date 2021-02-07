@@ -1,0 +1,15 @@
+numpy==1.15.4
+scikit-learn>=0.2
+matplotlib
+tensorboardX
+tqdm
+wordgenerator
+requests
+scikit-image
+tables
+h5py
+torch
+torchvision
+imagesize
+pandas
+opencv-python
